@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #456A9F;
+  --color-secondary: #76B7C9;
+  --breakpoint-3xl: 200rem;
+  --tracking-tighter: -0.05em;
+  --tracking-wider: 0.05em;
+}
